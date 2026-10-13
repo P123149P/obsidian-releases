@@ -61843,5 +61843,12 @@
     "author": "theluckystrike",
     "description": "Save a writing baseline and turn later edits into a new CriticMarkup review note. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "theluckystrike/revision-session-marks"
+  },
+  {
+    "id": "brain-view-pro",
+    "name": "Brain View Pro",
+    "author": "P123149P",
+    "description": "3D Brain knowledge graph with study workbench: note preview, personal annotations, node color markers, and hierarchical globular clustering.",
+    "repo": "P123149P/brain-view-pro"
   }
 ]
